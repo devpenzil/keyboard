@@ -1,0 +1,28 @@
+.key{
+    height: 60px;
+    background-color: #9b9b9b;
+    margin: 10px;
+    border-radius: 6px;
+    padding: 5px;
+    cursor: pointer;
+    user-select: none;
+}
+.key:active{
+    background-color: #757575;
+}
+.keyup{
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    color: azure;
+}
+.keydown{
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    font-size: 16px;
+    color: rgb(216, 216, 216);
+
+}
