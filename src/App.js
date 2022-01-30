@@ -36,7 +36,7 @@ function App() {
           <Key uptext={'P'} downtext={''} />
           <Key uptext={'[ {'} downtext={'Prn SC'} />
           <Key uptext={'] }'} downtext={'Scr Lk'} />
-          <Key uptext={`\ |`} downtext={'Rec'} w={110} />
+          <Key uptext={` |`} downtext={'Rec'} w={110} />
           <Key uptext={'End'} downtext={'o'} />
         </div>
         <div className="keyrow">
